@@ -1,1 +1,1 @@
-# cs332
+# cs332 - Advanced Computer Networking
