@@ -1,4 +1,4 @@
-# CS 232 - Chat
+# CS 332 - Chat
 
 1. This project is based on
     - Client: https://docs.google.com/document/d/1RMmrswFuqvq9KbYN2_uhkjA1-cpSzXrx-dtPg6GKdzY/edit
